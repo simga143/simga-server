@@ -1,0 +1,4 @@
+chat: false
+chat-format: <${source}> ${message}
+signs: true
+anvils: true
