@@ -46,7 +46,7 @@ A: You'll occasionally lag in the first few minutes of joining.
 Q: _I disconnected randomly._
 A: Either my internet went out or you lagged too much, try checking your internet connection. Also that's not a question.
 ## Silly things about the server
-- There is a map you can open in your web browser (you can send messages through this too). Go to 147.185.221.25:46994
+- There is a map you can open in your web browser (you can send messages through this too). Go to [147.185.221.25:46994](147.185.221.25:46994)
 - You can sit on stuff, press place on most slabs/stairs (or players) with an empty hand to do so, or run /sit.
 - There are custom images in the game in the form of maps. If you want a picture uploaded just send it to me and tell me the size (eg 2x2 or 3x4)
 - TPA system: you can request teleports to another player by running /tpa {player name}
